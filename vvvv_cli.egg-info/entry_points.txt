@@ -1,0 +1,2 @@
+[console_scripts]
+v = v.cli:start

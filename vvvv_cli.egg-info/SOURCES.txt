@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+v/__init__.py
+v/cli.py
+vvvv_cli.egg-info/PKG-INFO
+vvvv_cli.egg-info/SOURCES.txt
+vvvv_cli.egg-info/dependency_links.txt
+vvvv_cli.egg-info/entry_points.txt
+vvvv_cli.egg-info/requires.txt
+vvvv_cli.egg-info/top_level.txt

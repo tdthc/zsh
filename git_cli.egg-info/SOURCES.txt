@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+g/__init__.py
+g/cli.py
+git_cli.egg-info/PKG-INFO
+git_cli.egg-info/SOURCES.txt
+git_cli.egg-info/dependency_links.txt
+git_cli.egg-info/entry_points.txt
+git_cli.egg-info/requires.txt
+git_cli.egg-info/top_level.txt
