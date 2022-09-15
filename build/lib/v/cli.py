@@ -11,15 +11,19 @@ def main(alias):
         gst='git status',
         gp='git push',
         gl='git pull',
-        glo='git log --oneline --decorate',
+        glo='git log --oneline',
         ghh='git help',
         gcpa='git cherry-pick --abort',
-        gcpc='git cherry-pick --continue'
+        gcpc='git cherry-pick --continue',
+    
     )
     os.system(git.get(alias))
 
 def start():
     main(obj={})
+
+
+
 
 if __name__ == "__main__":
     start()
